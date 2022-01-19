@@ -1,0 +1,6 @@
+* welcome to my GitHub
+
+  - BTC: [[bitcoin:bc1q59t6z2lqdve7tfu3nc56dkh9djvpzpxllwyek6][bc1q59t6z2lqdve7tfu3nc56dkh9djvpzpxllwyek6]]
+  - XMR: [[monero:monero:47QTumjtqJabbo1s9pLDdXeJarLVLfs1AaEcbi1xrEiV852mqcbe5AHLNXTk7tH9MscxcxQDfJQnvH5LpxvfgwSJQZ3zbS6][47QTumjtqJabbo1s9pLDdXeJarLVLfs1AaEcbi1xrEiV852mqcbe5AHLNXTk7tH9MscxcxQDfJQnvH5LpxvfgwSJQZ3zbS6]]
+
+  I program in C, Perl and Raku.
